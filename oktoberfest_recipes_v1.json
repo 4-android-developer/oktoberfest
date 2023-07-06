@@ -110,15 +110,63 @@
       "title": "Weisswurst",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4bKnfBC1KNjYebiHb1ZAZ4SlMJP4eV2LDF0xffCmrsUhVRGDA9ZAHrp02buUgJXiUpLGyt3R0mlXZHTBERnSeitj03zB8erCAW-yDAV1G2m5dWLSY--7ssC3yi5UAuUI5W_eijVwGfnjN-ct5spjsA2sLFHpi4CmgESKXB5sqLyMzRmRHijxJvcKxeCXr/s1200/weisswurst-gut.jpeg",
       "description": "Indulge in the authentic taste of Weisswurst with its blend of finely ground veal and fresh herbs. Whether you're hosting a Bavarian-themed party or simply craving a taste of Germany ",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "link": "file:///android_asset/guide/guide3.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Recipe",
       "title": "Cara menggunakan Alien SDK Ads",
       "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "description": "",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Recipe",
+      "title": "",
+      "image": "",
+      "description": "",
+      "link": "file:///android_asset/guide/guide10.html"
     }
   ]
 }
