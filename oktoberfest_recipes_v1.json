@@ -115,58 +115,10 @@
     {
       "id": 4,
       "name_category": "Recipe",
-      "title": "Hendl",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFMnG_muG7jc58Z9Qtz-z6-R4bq_u2Sx1phct51o8_ZYTyL3tnKD3s6PSX8dtYc48MPfZqqtJsPSWOpvTHegmUdEtNbHSGStsjiXzIFR3oCT8TI0gVf93yCjMshmuhEp8bTqmiY39p2jw70dVBPtSd0QEfW_raCO2OkHMXsmCaUbxFd3h34iznsmNZrb0u/w400-h225/wiesenhendl-e1662631159250.webp",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
       "description": "",
       "link": "file:///android_asset/guide/guide4.html"
-    },
-    {
-      "id": 5,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide5.html"
-    },
-    {
-      "id": 6,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide6.html"
-    },
-    {
-      "id": 7,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide7.html"
-    },
-    {
-      "id": 8,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide8.html"
-    },
-    {
-      "id": 9,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide9.html"
-    },
-    {
-      "id": 10,
-      "name_category": "Recipe",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "file:///android_asset/guide/guide10.html"
     }
   ]
 }
