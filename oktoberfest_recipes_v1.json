@@ -78,47 +78,112 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Recipes",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "Recipe",
+      "image": "file:///android_asset/image/image7.jpg"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "file:///android_asset/image/image8.jpg"
     }
   ],
   "Data": [
-   {
+    {
       "id": 1,
       "name_category": "Recipe",
-      "title": "Schweinshaxe",
-      "image": "https://marvel-b1-cdn.bc0a.com/f00000000289278/cdn.shopify.com/s/files/1/1960/2909/articles/Recipe-Prok-Shanks-Website.png?v=1600865380",
-      "description": "Schweinshaxe is a traditional Bavarian dish that features a roasted pork knuckle",
+      "title": "Pretzel",
+      "image": "file:///android_asset/image/image1.jpg",
+      "description": "Pretzels are delicious and iconic baked goods with a twisted shape and a slightly crunchy exterior",
       "link": "file:///android_asset/guide/guide1.html"
     },
     {
       "id": 2,
       "name_category": "Recipe",
-      "title": "Pretzel (Brezel)",
-      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhHMngcVVW0nAbJzBpVNj9B_3qpGZ7R8xtFcak6zZlKcIEqKIrU9KgC0Qew9B7tcAlKhrEc96TayLZ0s3iabGJFGQTQQgBZAW8kS3ZxRYTaENVvkOqDHeIhuSYpPCvvNLZV0ePlDCH4GPmk9Sk_ihPUl2pU8aEgG_4Nf93a-LpZd846T7Fy8knacwRtX3az=w400-h400",
-      "description": "Indulge in the classic German treat with this delicious Pretzel recipe. Pretzels, or Brezeln in German, are a popular snack with a chewy texture and a rich, golden-brown crust.",
+      "title": "Weisswurst",
+      "image": "file:///android_asset/image/image2.jpg",
+      "description": "Weisswurst is a traditional Bavarian sausage made from minced veal and pork back bacon",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 3,
       "name_category": "Recipe",
-      "title": "Weisswurst",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4bKnfBC1KNjYebiHb1ZAZ4SlMJP4eV2LDF0xffCmrsUhVRGDA9ZAHrp02buUgJXiUpLGyt3R0mlXZHTBERnSeitj03zB8erCAW-yDAV1G2m5dWLSY--7ssC3yi5UAuUI5W_eijVwGfnjN-ct5spjsA2sLFHpi4CmgESKXB5sqLyMzRmRHijxJvcKxeCXr/s1200/weisswurst-gut.jpeg",
-      "description": "Indulge in the authentic taste of Weisswurst with its blend of finely ground veal and fresh herbs. Whether you're hosting a Bavarian-themed party or simply craving a taste of Germany ",
+      "title": "Obatzda",
+      "image": "file:///android_asset/image/image3.jpg",
+      "description": "Obatzda is a Bavarian cheese spread made from Camembert cheese, butter, onions, and flavorful seasonings",
       "link": "file:///android_asset/guide/guide3.html"
     },
     {
       "id": 4,
       "name_category": "Recipe",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "",
+      "title": "Potato Pancakes",
+      "image": "file:///android_asset/image/image4.jpg",
+      "description": "Potato pancakes, also known as Kartoffelpuffer",
       "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Recipe",
+      "title": "German Cucumber Salad",
+      "image": "file:///android_asset/image/image5.jpg",
+      "description": "German cucumber salad, or Gurkensalat",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Recipe",
+      "title": "Spaetzle",
+      "image": "file:///android_asset/image/image6.jpg",
+      "description": "Spaetzle is a traditional German pasta that resembles small dumplings or noodles",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Recipe",
+      "title": "Oktoberfest Roast Chicken",
+      "image": "file:///android_asset/image/image7.jpg",
+      "description": "Oktoberfest Roast Chicken is a hearty and flavorful dish",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Recipe",
+      "title": "Oktoberfest Casserole",
+      "image": "file:///android_asset/image/image8.jpg",
+      "description": "Oktoberfest Casserole is a comforting and hearty dish that combines",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Recipe",
+      "title": "Schnitzel",
+      "image": "file:///android_asset/image/image9.jpg",
+      "description": "Schnitzel is a classic German dish made from breaded and fried thin slices of meat",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Recipe",
+      "title": "Bratkartoffeln",
+      "image": "file:///android_asset/image/image10.jpg",
+      "description": "Bratkartoffeln, or German Fried Potatoes, is a classic dish made from sliced or diced potatoes",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Recipe",
+      "title": "German Potato Salad",
+      "image": "file:///android_asset/image/image11.jpg",
+      "description": "German Potato Salad is a warm and tangy side dish made with cooked potatoes",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Recipe",
+      "title": "Sauerkraut & Bratwurst Balls",
+      "image": "file:///android_asset/image/image12.jpg",
+      "description": "Sauerkraut & Bratwurst Balls are a delightful appetizer that combines the flavors",
+      "link": "file:///android_asset/guide/guide12.html"
     }
   ]
+}
 }
